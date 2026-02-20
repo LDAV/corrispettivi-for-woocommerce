@@ -1,0 +1,9 @@
+.git/
+.gitignore
+.svn/
+.worktree-copy/
+.wporg-svn/
+.distignore
+README.md
+scripts/
+.DS_Store
