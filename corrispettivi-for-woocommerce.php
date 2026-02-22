@@ -3,7 +3,7 @@
  * Plugin Name: Corrispettivi for WooCommerce
  * Plugin URI: https://ldav.it/plugin/corrispettivi-for-woocommerce/
  * Description: An aid for the compilation of the Register of Payments from WooCommerce sales.
- * Version: 0.8.2
+ * Version: 0.8.3
  * Author: laboratorio d'Avanguardia
  * Author URI: https://ldav.it/
  * Text Domain: corrispettivi-for-woocommerce
@@ -23,7 +23,7 @@ class Corrispettivi_for_WooCommerce {
 	public static $plugin_url;
 	public static $plugin_path;
 	public static $plugin_basename;
-	public $version = '0.8.2';
+	public $version = '0.8.3';
 	protected static $instance = null;
 
 	private $is_wc_active;
