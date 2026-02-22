@@ -79,7 +79,7 @@ Note:
 
 ## Changelog
 
-### 0.8.2 - 2026/02/22
+### 0.8.4 - 2026/02/22
 
 - Aggiunto filtro `corrispettivi_for_woocommerce_default_wc_status` per personalizzare gli stati ordine disponibili
 - Migliorata la gestione degli status ordine selezionabili (`wc-completed` sempre incluso)
