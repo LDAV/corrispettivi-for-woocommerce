@@ -1,9 +1,12 @@
 .git/
 .gitignore
+.github/
 .svn/
+.vscode/
 .worktree-copy/
 .wporg-svn/
 .distignore
 README.md
 scripts/
 .DS_Store
+*.sh

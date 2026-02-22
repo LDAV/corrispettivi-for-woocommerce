@@ -4,7 +4,7 @@ Tags: WooCommerce, Corrispettivi, registro dei corrispettivi, ldav
 Requires at least: 4.4
 Requires PHP: 8.0
 Tested up to: 6.9
-Stable tag: 0.8.3
+Stable tag: 0.8.4
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl.html
 Donate link: https://ldav.it/plugin/corrispettivi-for-woocommerce/
@@ -71,7 +71,7 @@ Note:
 
 == Changelog ==
 
-= 0.8.2 - 2026/02/22 =
+= 0.8.4 - 2026/02/22 =
 * Aggiunto filtro `corrispettivi_for_woocommerce_default_wc_status` per personalizzare gli stati ordine disponibili
 * Migliorata la gestione degli status ordine selezionabili (`wc-completed` sempre incluso)
 * Migliorata la sicurezza su input utente e query SQL
