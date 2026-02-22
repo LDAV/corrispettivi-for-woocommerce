@@ -1,0 +1,121 @@
+# Copyright (C) 2026 laboratorio d'Avanguardia
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Corrispettivi for WooCommerce 0.8.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/corrispettivi-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-02-22T09:25:56+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: corrispettivi-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+#: corrispettivi-for-woocommerce.php
+#: corrispettivi-for-woocommerce.php:243
+msgid "Corrispettivi for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: corrispettivi-for-woocommerce.php
+msgid "https://ldav.it/plugin/corrispettivi-for-woocommerce/"
+msgstr ""
+
+#. Description of the plugin
+#: corrispettivi-for-woocommerce.php
+msgid "An aid for the compilation of the Register of Payments from WooCommerce sales."
+msgstr ""
+
+#. Author of the plugin
+#: corrispettivi-for-woocommerce.php
+msgid "laboratorio d'Avanguardia"
+msgstr ""
+
+#. Author URI of the plugin
+#: corrispettivi-for-woocommerce.php
+msgid "https://ldav.it/"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:175
+msgid "Invalid nonce verification"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:192
+msgid "Corrispettivi for WooCommerce requires %1$sWooCommerce%2$s 3.0+ to be installed and activated!"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:201
+msgid "Corrispettivi for WooCommerce requires <strong>%1$sWooCommerce PDF Invoices Italian Add-on%2$s</strong> or <strong>%3$sWooCommerce Italian Add-on Plus%4$s</strong> to be installed and activated!"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:213
+#: corrispettivi-for-woocommerce.php:214
+msgid "Payments"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:253
+msgid "For the invoices recognition, Corrispettivi for WooCommerce requires <strong>%1$sWooCommerce PDF Invoices Italian Add-on%2$s</strong> or <strong>%3$sWooCommerce Italian Add-on Plus%4$s</strong> to be installed and activated!"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:267
+msgid "List of Payments"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:294
+msgid "Filter payments"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:295
+msgid "Show days without payments"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:296
+msgid "Order status"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:395
+#: corrispettivi-for-woocommerce.php:438
+msgid "Date"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:400
+#: corrispettivi-for-woocommerce.php:439
+msgid "Total daily payments"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:408
+#: corrispettivi-for-woocommerce.php:444
+msgid "Tax rate"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:415
+#: corrispettivi-for-woocommerce.php:449
+msgid "Non-taxable or exempt transactions"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:420
+#: corrispettivi-for-woocommerce.php:450
+msgid "Transactions not subject to VAT registration"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:425
+#: corrispettivi-for-woocommerce.php:451
+msgid "Invoice from No."
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:430
+#: corrispettivi-for-woocommerce.php:452
+msgid "Invoice to No."
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:508
+msgid "Export to Excel"
+msgstr ""
+
+#: corrispettivi-for-woocommerce.php:509
+msgid "Export to CSV"
+msgstr ""

@@ -1,4 +1,8 @@
 .DS_Store
 .worktree-copy/
 .svn/
+.vscode
+.wporg-svn/
 *.sh
+_*
+!scripts/*.sh
