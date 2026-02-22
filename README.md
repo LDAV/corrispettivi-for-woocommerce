@@ -9,7 +9,7 @@ Un aiuto per la compilazione del Registro dei Corrispettivi derivanti da vendite
 - Requires at least: 4.4
 - Requires PHP: 8.0
 - Tested up to: 6.9
-- Stable tag: 0.8.2
+- Stable tag: 0.8.4
 - License: GPLv3 or later
 - License URI: http://www.gnu.org/licenses/gpl.html
 - Donate link: https://ldav.it/plugin/corrispettivi-for-woocommerce/
