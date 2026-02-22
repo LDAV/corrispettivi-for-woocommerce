@@ -3,6 +3,7 @@
 .svn/
 .vscode
 .wporg-svn/
+.distignore
 *.sh
 _*
-!scripts/*.sh
+scripts/

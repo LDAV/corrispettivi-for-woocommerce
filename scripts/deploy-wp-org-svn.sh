@@ -178,7 +178,11 @@ RSYNC_ARGS=(
   -a
   --delete
   --exclude
-  ".svn/"
+  ".*"
+  --exclude
+  "**/.*"
+  --exclude
+  "*.sh"
 )
 
 if [[ -f "${DISTIGNORE_FILE}" ]]; then
